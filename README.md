@@ -3,14 +3,23 @@ Menebak Peringkat Kartu Berdasarkan 5 Kartu Dengan Nilai Dan Jenisnya
 
 # Peringkat Kartu Dari Yang Terendah (High Card) Sampai Yang Tertinggi (Royal Flush)
 **High Card**: Kartu dengan nilai tertinggi (dari 2 hingga Ace)
+
 **One Pair**: Dua kartu dengan nilai yang sama
+
 **Two Pairs**: Dua pasangan yang berbeda
+
 **Three of a Kind**: Tiga kartu dengan nilai yang sama
+
 **Straight**: Semua kartu memiliki nilai berurutan
+
 **Flush**: Semua kartu dengan jenis yang sama
+
 **Full House**: Three of a Kind dan One Pair
+
 **Four of a Kind**: Empat kartu dengan nilai yang sama
+
 **Straight Flush**: Semua kartu memiliki nilai berurutan dengan jenis yang sama
+
 **Royal Flush**: 10, Jack, Queen, King, As, dengan jenis yang sama
 
 # Nilai
