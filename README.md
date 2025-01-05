@@ -39,8 +39,13 @@ Contoh Pengejaan: Misalnya JS
 J = Jack, S = Spades === Jack Of Spades
 
 # Input Dan Output
-**Contoh Input**: 10S JS QS KS AS
+**Contoh Input**
+```bash
+10S JS QS KS AS
+```
 
-**Output**: Royal Flush
-
+**Output**
+```bash
+Royal Flush
+```
 Karena Memiliki Urutan Nilai 10 J Q K A Dan Memiliki 1 Jenis Yaitu S(Spades)
